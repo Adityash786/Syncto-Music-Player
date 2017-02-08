@@ -5,7 +5,7 @@ This is Network music player.
 It is proficient in playing synchronised music simultaneously on multiple pc's connected on the same network.
 
 -Fully Dynamic multi-threaded server side deployable on any computer to serve as server.
--It is distributed application.
+-It is a distributed application.
 -Simultaneous routing of data through signal connection.
 There will be one client and several servers.
 Client will command servers to play music.
@@ -21,14 +21,14 @@ Python,Sockets,Pygame,Threading,Tkinter
 
 2 - Setting up client
 
-* Enter the ip addresses of the you want to connect with in client.py
+* Enter the ip addresses of the computers you want to connect with in client.py
 * Then save it.
 
 3 - Run ms.py , Browse music you want to play and enjoy.
 
 # Team:
 
-Shikhar Srivastav(Mentor) 
+Shikhar Srivastava(Mentor) 
 
 Back End:
 Prerna Garg, Amit Yadav.
