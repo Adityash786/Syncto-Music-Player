@@ -2,9 +2,9 @@
 # Music_net-1.0_beta #
 ######################
 This is Network music player.
-It is proficient in playing synchronised music simultaneously on ,multiple pc's connected on a same network.
+It is proficient in playing synchronised music simultaneously on multiple pc's connected on the same network.
 
--Fully Dynamic multi-threaded server side deplpyable on any computer to serve as server.
+-Fully Dynamic multi-threaded server side deployable on any computer to serve as server.
 -It is distributed application.
 -Simultaneous routing of data through singal connection.
 There will be one client and several servers.
