@@ -6,7 +6,7 @@ It is proficient in playing synchronised music simultaneously on multiple pc's c
 
 -Fully Dynamic multi-threaded server side deployable on any computer to serve as server.
 -It is distributed application.
--Simultaneous routing of data through singal connection.
+-Simultaneous routing of data through signal connection.
 There will be one client and several servers.
 Client will command servers to play music.
 
