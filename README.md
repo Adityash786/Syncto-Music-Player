@@ -1,5 +1,5 @@
 ###################### 
-# Music_net-1.0_beta #
+# Syncto_Music_Player_beta #
 ######################
 This is Network music player.
 It is proficient in playing synchronised music simultaneously on multiple pc's connected on the same network.
